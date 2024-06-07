@@ -1,5 +1,9 @@
 **Flappy**
 
+**Technoogy**
+
+Flutter,Dart
+
 **Description**
 
 Flappy is a multi-gaming application designed for children's learning.
@@ -36,4 +40,3 @@ for making it easier for me to develop this project. Special thanks to my friend
 
 family for their support and contributions to the idea behind the Flappy application.
 
-This reorganized version maintains clarity and coherence while improving the overall structure and readability of the content.
