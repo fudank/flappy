@@ -1,16 +1,29 @@
-# flip
+1. Flappy
 
-A new Flutter project.
+A multigaming application.
 
-## Getting Started
+2. Description
 
-This project is a starting point for a Flutter application.
+multiple game added for learning of child( addition,substraction,multiple,division).
 
-A few resources to get you started if this is your first Flutter project:
+UI of app is for child.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+multiple funny structure and images added.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Installation Detailed steps to install and set up the project.
+
+Installation https://github.com/fudank/flappy.git
+
+You can download the project because it's in open state. and if you are facing any issue please be free to write on me om fudank2498@gmail.com or fudank249891@gmail.com/
+
+5. Contributing.
+
+Any contributter who wants to contribute they can do simple pull request if getting any issue then you can write me on
+
+fudank249891@gmail.com or fudank2498@gmail.com here I'm free to learn with you or can guide through this project.
+
+6.Acknowledgements
+
+I thank to the flutter development team and documentation team who's made easy for me to develop this project.
+
+Thanks to the friends and LinkedIn family who helped me to develop idea like Flappy application.
